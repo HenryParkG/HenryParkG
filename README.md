@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blaewood
-- 👀 I’m interested in computer programming, exercising, watching youtube, and 
+- 👀 I’m interested in computer programming, exercising, watching youtube and twitch tv
 - 🌱 I’m currently learning computer engineering in Gachon university
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on small project
 - 📫 How to reach me ...
 
 <!---
