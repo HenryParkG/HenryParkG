@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blaewood
+- 👋 Hi, I’m @HenryParkG
 - 👀 I’m interested in computer programming, exercising, watching youtube and twitch tv
 - 🌱 I’m currently learning computer engineering in Gachon university
 - 💞️ I’m looking to collaborate on small project
