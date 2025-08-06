@@ -31,8 +31,8 @@
 
 ## ✉️ 연락처
 
-- 📧 Email: your.email@example.com  
-- 🐙 GitHub: [github.com/your-id](https://github.com/your-id)
+- 📧 Email: dgwj@naver.com  
+- 🐙 GitHub: [github.com/HenryParkG](https://github.com/HenryParkG)
 
 ---
 
