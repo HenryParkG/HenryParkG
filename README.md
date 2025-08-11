@@ -15,7 +15,7 @@
 
 - **Vision AI**: YOLO(YOLO11, YOLO12), SAM(SAM, NanoSAM, FastSAM, MobileSAM), GLASS, MobileNet
 - **프레임워크**: PyTorch, ONNX, TensorRT, OpenCV, ComfyUI
-- **프로그램 개발**: MFC(C++), Python, CMake
+- **프로그램 개발**: MFC(C++), Python, JAVA, Web
 - **시스템**: 다중 카메라 제어 (Basler, Pylon), 비동기 처리, 병렬 처리, 데이터 라벨링 파이프라인 구축
 
 ---
