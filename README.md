@@ -27,6 +27,12 @@
 - 🟡 **ComfyUI 기반 데이터 증강**: ClipSeg, ControlNet 활용한 합성 데이터 자동 생성 파이프라인 구축 (현재 image to video 학습 및 테스트 중)
 - 🔵 **ONNX → TensorRT 변환 최적화**: 추론 속도 개선 및 CUDA 환경 병렬 처리 구조화
 
+# 대학원
+
+- 🟢
+- 🔴
+- 🟡
+- 🔵
 ---
 
 ## ✉️ 연락처
