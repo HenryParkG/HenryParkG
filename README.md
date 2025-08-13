@@ -24,7 +24,7 @@
 
 ### 개인 프로젝트
 
-- 🟢 **[alpha hunter](https://github.com/HenryParkG/alpha-hunter) : 국내 주식 자동화 트레이딩 서비스
+- 🟢 **[alpha hunter](https://github.com/HenryParkG/alpha-hunter)** : 국내 주식 자동화 트레이딩 서비스
 
 ### 직장내 프로젝트
 
