@@ -22,6 +22,10 @@
 
 ## 📂 주요 프로젝트
 
+### 개인 프로젝트
+
+- 🟢 **[alpha hunter](https://github.com/HenryParkG/alpha-hunter) : 국내 주식 자동화 트레이딩 서비스
+
 ### 직장내 프로젝트
 
 - 🟢 **AI 검사 시스템 통합**: MFC 기반 UI에 YOLO + SAM을 결합한 다중 객체 검사 시스템 개발  
